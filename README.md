@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @edithlove
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in games 
+- 🌱 I’m currently learning new things 
+- 💞️ I’m looking to collaborate on bieng social
+-  and I donlt know what more.
+- 
 
 <!---
 edithlove/edithlove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
